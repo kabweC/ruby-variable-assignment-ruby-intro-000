@@ -1,5 +1,5 @@
 # Variable Assignment
-
+puts "hello world"
 ## Objectives
 
 1. Assign a local variable.
